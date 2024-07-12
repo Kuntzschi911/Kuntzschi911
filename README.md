@@ -1,5 +1,6 @@
 ### Hi there 👋
-[IMG20240621094118](https://github.com/user-attachments/assets/910e6a1a-4aed-423d-ae92-4553007bce7a)
+### ![IMG20240621094118](https://github.com/user-attachments/assets/81966b28-db2a-4051-8d3c-570ae52cca55)
+
 <!--
 **toxic-jannick/toxic-jannick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
