@@ -1,7 +1,4 @@
 ### Hi there 👋
-[Selfie_1](https://github.com/user-attachments/assets/5e768e47-ebcc-499c-9d0d-57ee8ab8e60c)
-
-![Selfie_1](Selfie_1.jpg | width=100)
 
 <!--!
 **toxic-jannick/toxic-jannick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
