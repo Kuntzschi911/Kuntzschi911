@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="images/Rose.jpg" alt="Logo" width="600" height="600">
+<img src="images/Rose.jpg" alt="Logo" width="600" height="400">
 
 
 
