@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="images/Rose.jpg" alt="Me" width="200" height="100">
+
 
 <!--!
 **toxic-jannick/toxic-jannick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
