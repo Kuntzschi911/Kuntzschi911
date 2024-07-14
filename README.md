@@ -3,13 +3,23 @@
 
 ### about me
 I'm Jannick from Elsterwerda, Germany.
-I'm almost(holidays) visiting 11th Grade on the Elsterschloss-Gymnasium Elsterwerda (Secondary School).
-My hobbies are Hardware/Software and - as you can see in the Photo on my tee - Firefighters. in Brandenburg(my State) it's allowed to be a fireman at 16 years.
+I'm visiting 11th Grade on the Elsterschloss-Gymnasium Elsterwerda (Secondary School).
+My Interests are Hardware/Software and - as you can see in the Photo on my tee - Firefighters. in Brandenburg(my State) it's allowed to be a fireman at 16 years.
 In school I chose intensified course in IT and English because i am somehow good at it and like to do them.
 In first year of school-IT we started learning: programming (especially C++), logic, networks, and at the end we created databases
 
+[![Jannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/toxic-jannick/github-readme-stats)
+
 ### My project(s)
 [My Website](toxic-jannick.github.io): My github.io site for publishing my projects. There you can see all my projects i've been working on
+
+### contact
+[E-mail](mailto:jannick321kuntzsch@gmail.com)
+[Twitter](twitter.com/toxic_jannick)
+[Telegram](telegram.me/toxic_jannick)
+[Discord](discord.com/toxic_jannick)
+
+
 <!--!
 **toxic-jannick/toxic-jannick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
