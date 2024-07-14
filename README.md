@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="images/Rose.jpg" alt="rose" width="600" height="400">
+![Me with a rose](images/Rose.jpg)
 
 ### about me
 I'm Jannick from Elsterwerda, Germany.
