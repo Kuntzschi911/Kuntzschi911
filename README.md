@@ -8,7 +8,7 @@ My Interests are Hardware/Software and - as you can see in the Photo on my tee -
 In school I chose intensified course in IT and English because i am somehow good at it and like to do them.
 In first year of school-IT we started learning: programming (especially C++), logic, networks, and at the end we created databases
 
-[![Jannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=toxic-jannick)](https://github.com/toxic-jannick/github-readme-stats)
+[![Jannick's GitHub stats](https://github-readme-stats-phi-plum-27.vercel.app/api?username=toxic-jannick)](https://github.com/toxic-jannick/github-readme-stats)
 
 ### My project(s)
 [My Website](toxic-jannick.github.io): My github.io site for publishing my projects. There you can see all my projects i've been working on
