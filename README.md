@@ -5,8 +5,8 @@
 I'm Jannick from Elsterwerda, Germany.
 I'm visiting 11th Grade on the Elsterschloss-Gymnasium Elsterwerda (Secondary School).
 My Interests are Hardware/Software and - as you can see in the Photo on my tee - Firefighters. in Brandenburg(my State) it's allowed to be a fireman at 16 years.
-In school I chose intensified course in IT and English because i am somehow good at it and like to do them.
-In first year of school-IT we started learning: programming (especially C++), logic, networks, and at the end we created databases.
+In school(secondary level 2, grade 11 and 12) I chose intensified course in IT and English because i am somehow good at it and like to do them.
+In first year of school IT(grade 10) we started learning: programming (especially C++), logic, networks, and at the end we created databases.
 Now, I'm in my second year of Computer-Science at school and we are learning Algorithms & Programs rn.
 additionally, we have a Seminar course about Economy, where we have to create a project about any topic we whish, ie. Publishing(create a foreign-language travel guide **in cooperation with a publisher** or communication design(create a theme-related homepage/program).
 I think the Economy-course is very good, because you are learning skills, you would never learn during the normal lessons.
