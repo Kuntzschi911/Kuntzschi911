@@ -8,7 +8,7 @@ My Interests are Hardware/Software and - as you can see in the Photo on my tee -
 In school(secondary level 2, grade 11 and 12) I chose intensified course in IT and English because i am somehow good at it and like to do them.
 In first year of school IT(grade 10) we started learning: programming (especially C++), logic, networks, and at the end we created databases.
 Now, I'm in my second year of Computer-Science at school and we are learning Algorithms & Programs rn.
-additionally, we have a Seminar course about Economy, where we have to create a project about any topic we whish. We chose to create a [Rent-management platform](mietkontor-immobilienverwaltung.tech).There the renters have every tool you need to manage your rents 
+additionally, we have a Seminar course about Economy, where we have to create a project about any topic we whish. We chose to create a [Rent-management platform](https://mietkontor-immobilienverwaltung.tech).There the renters have every tool you need to manage your rents 
 I think the Economy-course is very good, because you are learning skills, you would never learn during the normal lessons.
 ...now back to the programming...
 
